@@ -1,8 +1,6 @@
-streamlit==1.32.2
-pandas==2.1.4
-pytesseract==0.3.10
-pillow>=10.0.0  
-opencv-python==4.9.0.80
+streamlit>=1.28.0
+pandas>=2.2.0   
 numpy==1.26.4
+mlxtend>=0.22.0
+openpyxl>=3.0.0
 
-python-dotenv==1.0.0
